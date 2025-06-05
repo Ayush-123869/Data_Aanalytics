@@ -24,4 +24,23 @@ Before running the project, ensure you have the following installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly jupyter
+📊 Visualization Objectives
+The visualizations aim to:
 
+Track Year-wise Threat Volume: Show trends from 2015–2024 in reported incidents.
+
+Compare Industry Attacks: Identify which sectors (e.g., Finance, Healthcare, IT) are most targeted.
+
+Visualize Attack Vectors: Breakdown of phishing, malware, DDoS, insider threats, etc.
+
+Display Incident Heatmaps: Geographic distribution of major threats.
+
+Analyze Mitigation Trends: How response strategies evolved over time.
+🧭 How to Interact with the Dashboard
+Dropdown Filters: Select year range, industry, and attack type to filter charts dynamically.
+
+Hover Tooltips: Hover over graphs to see detailed information on each data point.
+
+Zoom & Pan: Use mouse/trackpad to zoom into timelines or geographical heatmaps.
+
+Export Options: Download filtered charts for presentations or reports.
